@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tellmate App</string>
+    <string name="loading">Please Wait...</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="title_activity_text_speech">TextSpeech</string>
+    <string name="title_activity_speech_text">SpeechText</string>
+
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598866781479",
+    "project_id": "tellmate-app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598866781479:android:5e278a4983ccf918",
+        "android_client_info": {
+          "package_name": "com.siddiqui.shagil.tellmateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598866781479-0u7nmm1sl63dbd54m2ps9iemoqd0t76e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siddiqui.shagil.tellmateapp",
+            "certificate_hash": "00d5d7b7a40797f0b016b296d5ce279a15335f41"
+          }
+        },
+        {
+          "client_id": "598866781479-r5dfhsojis57pmisqnbeu267s19g62ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxK6blDM6PfFC0nQjvLMhY4zTg76GafQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
